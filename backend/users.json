@@ -1,0 +1,11 @@
+[
+    {
+      "username": "user1",
+      "password": "$2a$10$E9kGf9XZJ0H/v.Kl1HS6XeMQJnMt8l7xMQV7T/dFe6JH8EBypQYxK"  // hashed password
+    },
+    {
+      "username": "user2",
+      "password": "$2a$10$U3e7G7aU3G3aT7e7i3G8T9eR8vQdE6fO6rQfO6yJ8eY8rW6oQ7eF8Q"  // hashed password
+    }
+  ]
+  
